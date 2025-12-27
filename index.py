@@ -1,1 +1,3 @@
-print(12)
+x = 12
+y = 15
+print(x + y)
